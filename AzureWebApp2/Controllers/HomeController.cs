@@ -17,7 +17,7 @@ namespace AzureWebApp2.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Welcome Rutuja";
+            ViewData["Message"] = "Welcome Rutuja. Have a great day!";
 
             return View();
         }
